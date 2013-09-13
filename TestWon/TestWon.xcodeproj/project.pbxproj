@@ -211,6 +211,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = "Lonely Cappuccino";
 				TargetAttributes = {
+					826F1B3517E3551900EA5D9A = {
+						DevelopmentTeam = 7E24WZT4N3;
+					};
 					826F1B5D17E3551A00EA5D9A = {
 						TestTargetID = 826F1B3517E3551900EA5D9A;
 					};
@@ -392,6 +395,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestWon/TestWon-Prefix.pch";
 				INFOPLIST_FILE = "TestWon/TestWon-Info.plist";
@@ -406,6 +410,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "TestWon/TestWon-Prefix.pch";
 				INFOPLIST_FILE = "TestWon/TestWon-Info.plist";
