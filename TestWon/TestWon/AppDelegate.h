@@ -4,10 +4,10 @@
 //
 //  Created by Klemen Košir on 9/13/13.
 //  Copyright (c) 2013 Lonely Cappuccino. All rights reserved.
-//oijlkm
+
 
 #import <UIKit/UIKit.h>
-//LALALALA
+
 @interface AppDelegate : UIResponder <UIApplicationDelegate>
 
 @property (strong, nonatomic) UIWindow *window;
